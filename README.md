@@ -10,6 +10,8 @@
 
 4. Debe poder cerrar sesión y volver al inicio.
 
+**PARTE TEORICA EN EL SIGUIENTE LINK:** [RESPUESTAS](https://docs.google.com/document/d/170k0APCp1ayJk2lP8aKuhN2YN787-rjJH1d8Q6B_EeI/edit?usp=sharing)
+
 # Extras:
 
 1. Se implemento Formik para el manejo de formularios y Yup para validacion del mismo.
@@ -19,3 +21,4 @@
 3. Se utilizo Mantine para estilos y componentes.
 
 4. Se indica el rol del usuario logueado presionando su avatar.
+
