@@ -1,0 +1,24 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    box-shadow: -5px 1px 25px -4px gray;
+    width: 70%;
+    height: 40vh;
+}
+
+@media only screen and (max-width: 768px) {
+    .login-container {
+        box-shadow: none;
+        width: 100%;
+    }
+
+    .login-image {
+        display: none;
+    }
+
+    .login-container-form {
+        width: 100%;
+    }
+}
